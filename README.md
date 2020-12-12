@@ -7,6 +7,8 @@ This repo contains only screenshot from the development of the MDM module
 ![screenshot-localhost_8069-2020 12 13-02_44_56](https://user-images.githubusercontent.com/72437355/101995323-2d500000-3cef-11eb-87f8-99f8394766c2.png)
 ![screenshot-localhost_8069-2020 12 13-02_45_14](https://user-images.githubusercontent.com/72437355/101995329-3214b400-3cef-11eb-98b1-d0702521dad0.png)
 ![screenshot-localhost_8069-2020 12 13-02_45_14 (1)](https://user-images.githubusercontent.com/72437355/101995335-380a9500-3cef-11eb-8230-90d2654fb27b.png)
+![screenshot-localhost_8069-2020 12 13-03_15_53](https://user-images.githubusercontent.com/72437355/101995667-caac3380-3cf1-11eb-8398-45c2f0df25d2.png)
+![screenshot-localhost_8069-2020 12 13-03_16_16](https://user-images.githubusercontent.com/72437355/101995668-ce3fba80-3cf1-11eb-9b1e-7fc642513cf9.png)
 ![screenshot-localhost_8069-2020 12 13-02_46_05](https://user-images.githubusercontent.com/72437355/101995338-3e007600-3cef-11eb-9784-bc9c5cb74aa3.png)
 ![screenshot-localhost_8069-2020 12 13-02_46_27](https://user-images.githubusercontent.com/72437355/101995343-435dc080-3cef-11eb-916d-1221349eb6e9.png)
 ![screenshot-localhost_8069-2020 12 13-02_46_43](https://user-images.githubusercontent.com/72437355/101995347-4bb5fb80-3cef-11eb-8d1c-97491f5f92a8.png)
